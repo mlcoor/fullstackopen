@@ -1,0 +1,16 @@
+body {
+  background-color: antiquewhite;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  cursor: pointer;
+  background-color: aliceblue;
+  margin-right: 15px;
+  border-radius: 5px;
+}
