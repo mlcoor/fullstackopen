@@ -1,0 +1,3 @@
+[submodule "part3/phonebookBackend"]
+	path = part3/phonebookBackend
+	url = https://github.com/mlcoor/phonebookBackend.git
